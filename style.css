@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.clr{
+    background-color: rgba(0, 234, 255, 0.363);
+    height: 300px;
+}
+
+.row{
+    margin-left: 670px;
+  
+    margin-top: 20px;
+}
+.row-1{
+    margin-top: 10px;
+}
+.btn{
+   margin-left: 10px; 
+   font-size: 30px;
+}
+input{
+    height: 30px;
+}
